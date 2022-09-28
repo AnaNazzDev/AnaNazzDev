@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis AnaNazz</h1>
-<h3 align="center">J'ai commencé le développement en 2019 par passion. J'aime bien regarder les codes et bidouiller un peu :)</h3>
+<h3 align="center">J'ai commencé le développement en 2018 par passion. J'aime bien regarder les codes et bidouiller un peu :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananazzouzou&label=Profile%20views&color=0e75b6&style=flat" alt="ananazzouzou" /> </p>
 
