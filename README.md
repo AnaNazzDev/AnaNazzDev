@@ -2,6 +2,6 @@
 
 • 👀 I’m developer in Glua/Lua, Python, Skript👀
 
-• 📖 Current learning NodeJS & 3D Modelisation
+• 📖 Currently learning NodeJS & 3D Modelisation
 
 • 📫 Reach me on discord AnaNazz#9591
