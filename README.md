@@ -4,4 +4,6 @@
 
 • 📖 Currently learning NodeJS & 3D Modelisation
 
+• ❤️ Always in search of discovery and learning
+
 • 📫 Reach me on discord AnaNazz#9591
