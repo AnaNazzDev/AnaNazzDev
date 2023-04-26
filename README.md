@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm AnaNazz</h1>
 
-• 👀 I’m interested in Programation Glua/Lua, Python, NodeJS & 3D Modelisation (Learning)
+• 👀 I’m developer in Glua/Lua, Python, Skript👀
 
-• 📫 How to reach me AnaNazz#9591
+• 📖 Current learning NodeJS & 3D Modelisation
+
+• 📫 Reach me on discord AnaNazz#9591
