@@ -6,4 +6,4 @@
 
 • ❤️ Always in search of discovery and learning
 
-• 📫 Reach me on discord AnaNazz#9591
+• 📫 Reach me on discord AnaNazz
