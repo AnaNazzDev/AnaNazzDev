@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AnaNazz</h1>
 
-• 👀 I’m developer in Glua/Lua, Python, Skript👀
+• 👀 I’m developer in Glua/Lua, Java👀
 
 • 📖 Currently learning NodeJS & 3D Modelisation
 
