@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AnaNazz</h1>
 
-• 👀 I’m developer in Glua/Lua, Java, Back end 👀
+• 👀 I’m developer in Glua/Lua, Java, Web (Next.js) 👀
 
 • ❤️ Always in search of discovery and learning
 
